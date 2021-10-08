@@ -1,0 +1,3 @@
+# High_voltage_line_extraction
+尝试用不同的卷积神经网络老进行提取山区高压线
+先试用unet,unet++，mask_rcnn等卷积神经网络尝试对不同类型的遥感影像提取高压线，包括GF-1,GF-2以及sentinel2影像数据
